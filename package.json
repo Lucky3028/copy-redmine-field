@@ -5,6 +5,9 @@
   "author": "Lucky3028 <Lucky3028@users.noreply.github.com>",
   "license": "MIT",
   "private": true,
+  "bugs": {
+    "url": "https://github.com/Lucky3028/replace-redmine-datetime/issues"
+  },
   "packageManager": "yarn@3.2.0",
   "repository": {
     "type": "git",
