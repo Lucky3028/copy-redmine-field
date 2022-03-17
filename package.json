@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": true,
   "bugs": {
-    "url": "https://github.com/Lucky3028/replace-redmine-datetime/issues"
+    "url": "https://github.com/Lucky3028/copy-redmine-field/issues"
   },
   "packageManager": "yarn@3.2.0",
   "repository": {
