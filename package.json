@@ -6,6 +6,11 @@
   "license": "MIT",
   "private": true,
   "packageManager": "yarn@3.2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucky3028/copy-redmine-field.git"
+  },
+  "homepage": "https://github.com/Lucky3028/copy-redmine-field",
   "scripts": {
     "lint": "tsc --noEmit; eslint 'src/**/*.ts'; prettier -c 'src/**/*.ts'",
     "lint:fix": "tsc --noEmit; eslint --fix 'src/**/*.ts'; prettier -w 'src/**/*.ts'",
