@@ -7,7 +7,7 @@
 // @license     MIT
 // @supportURL  https://github.com/Lucky3028/copy-redmine-field/issues
 // @run-at      document-end
-// @match     *://redmine.seichi.click/issues/*
+// @match       *://redmine.seichi.click/issues/*
 // @updateURL   https://lucky3028.github.io/copy-redmine-field/main.js
 // @downloadURL https://lucky3028.github.io/copy-redmine-field/main.js
 // ==/UserScript==
