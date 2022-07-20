@@ -14,7 +14,7 @@ const userScriptBanner = `
 // @license     ${packageJson.license}
 // @supportURL  ${packageJson.bugs.url}
 // @run-at      document-end
-// @match     *://redmine.seichi.click/issues/*
+// @match       *://redmine.seichi.click/issues/*
 // @updateURL   ${scriptUrl}
 // @downloadURL ${scriptUrl}
 // ==/UserScript==
